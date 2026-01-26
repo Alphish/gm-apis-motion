@@ -27,6 +27,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"ctor_ApisMotionDirectPosition","path":"scripts/ctor_ApisMotionDirectPosition/ctor_ApisMotionDirectPosition.yy",},},
     {"id":{"name":"ctor_ApisMotionException","path":"scripts/ctor_ApisMotionException/ctor_ApisMotionException.yy",},},
+    {"id":{"name":"ctor_ApisMotionInstancePosition","path":"scripts/ctor_ApisMotionInstancePosition/ctor_ApisMotionInstancePosition.yy",},},
     {"id":{"name":"ctor_ApisMotionPosition","path":"scripts/ctor_ApisMotionPosition/ctor_ApisMotionPosition.yy",},},
   ],
   "resourceType":"GMProject",
