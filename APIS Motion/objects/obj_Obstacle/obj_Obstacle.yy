@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Crosshair",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_Obstacle",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Crosshair",
+  "name":"obj_Obstacle",
   "overriddenProperties":[],
   "parent":{
     "name":"Demo",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Crosshair",
-    "path":"sprites/spr_Crosshair/spr_Crosshair.yy",
+    "name":"spr_Obstacle",
+    "path":"sprites/spr_Obstacle/spr_Obstacle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
