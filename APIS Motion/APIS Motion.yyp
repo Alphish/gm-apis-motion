@@ -30,6 +30,7 @@
     {"id":{"name":"obj_Crosshair","path":"objects/obj_Crosshair/obj_Crosshair.yy",},},
     {"id":{"name":"rm_Demo","path":"rooms/rm_Demo/rm_Demo.yy",},},
     {"id":{"name":"ctor_ApisMotionApproachMechanic","path":"scripts/ctor_ApisMotionApproachMechanic/ctor_ApisMotionApproachMechanic.yy",},},
+    {"id":{"name":"ctor_ApisMotionCornerSlideMechanic","path":"scripts/ctor_ApisMotionCornerSlideMechanic/ctor_ApisMotionCornerSlideMechanic.yy",},},
     {"id":{"name":"ctor_ApisMotionDirectPosition","path":"scripts/ctor_ApisMotionDirectPosition/ctor_ApisMotionDirectPosition.yy",},},
     {"id":{"name":"ctor_ApisMotionException","path":"scripts/ctor_ApisMotionException/ctor_ApisMotionException.yy",},},
     {"id":{"name":"ctor_ApisMotionInstancePosition","path":"scripts/ctor_ApisMotionInstancePosition/ctor_ApisMotionInstancePosition.yy",},},
