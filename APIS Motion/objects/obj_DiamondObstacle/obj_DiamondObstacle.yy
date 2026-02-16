@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Crosshair",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_DiamondObstacle",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Crosshair",
+  "name":"obj_DiamondObstacle",
   "overriddenProperties":[],
   "parent":{
     "name":"Demo",
     "path":"folders/Demo.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_Obstacle",
+    "path":"objects/obj_Obstacle/obj_Obstacle.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Crosshair",
-    "path":"sprites/spr_Crosshair/spr_Crosshair.yy",
+    "name":"spr_DiamondObstacle",
+    "path":"sprites/spr_DiamondObstacle/spr_DiamondObstacle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
